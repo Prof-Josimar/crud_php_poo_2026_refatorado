@@ -48,7 +48,7 @@ echo. >> %filename%
 set "logo_url=https://github.com/Prof-Josimar/crud_php_poo_2026_refatorado/blob/main/public/img/vortex_with_text.svg"
 
 
-echo ^<img src="%logo_url%" width="600"^> >> %filename%
+echo ^<img src="%logo_url%" width="200"^> >> %filename%
 
 :::git init
 git add . -v
