@@ -7,7 +7,7 @@ set "project_name=Projeto Aulas PHP 2026 Refatorado - %date% %time%"
 set "author=Josimar Ribeiro"
 set "filename=README.md"
 set "date_time=%DATE% %TIME%"
-set "logo_url=https://github.com/Prof-Josimar/crud_php_poo_2026/blob/main/public/imagens/logo.png"
+set "logo_url=https://github.com/Prof-Josimar/crud_php_poo_2026_refatorado/blob/main/public/img/vortex_with_text.svg"
 
 REM === Cria o README.md ===
 echo # %project_name% > %filename%
@@ -45,7 +45,7 @@ echo ## Autor >> %filename%
 echo %author% >> %filename%
 echo. >> %filename%
 
-set "logo_url=https://raw.githubusercontent.com/juanferreira-x/juanferreira-x/output/github-contribution-grid-snake.svg"
+set "logo_url=https://github.com/Prof-Josimar/crud_php_poo_2026_refatorado/blob/main/public/img/vortex_with_text.svg"
 
 
 echo ^<img src="%logo_url%" width="600"^> >> %filename%

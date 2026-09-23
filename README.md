@@ -1,21 +1,21 @@
-# Projeto Aulas PHP 2026 Refatorado - 23/09/2026 20:40:15,58 
+# Projeto Aulas PHP 2026 Refatorado - 23/09/2026 20:41:53,05 
  
  
  
 ## Informações do sistema 
-- Data e hora: 23/09/2026 20:40:15,58 
+- Data e hora: 23/09/2026 20:41:53,05 
 - Usuário: admin 
 - Computador: FE16 
 - Diretório atual: C:\dev\php\crud_php_poo_2026_refatorado 
 - git version 2.55.0.windows.3 
  
-<img src="https://github.com/Prof-Josimar/crud_php_poo_2026/blob/main/public/imagens/logo.png" width="300"> 
+<img src="https://github.com/Prof-Josimar/crud_php_poo_2026_refatorado/blob/main/public/img/vortex_with_text.svg" width="300"> 
  
  M README.md
-?? public/img/
+ M up.cmd
  
  
 ## Autor 
 Josimar Ribeiro 
  
-<img src="https://raw.githubusercontent.com/juanferreira-x/juanferreira-x/output/github-contribution-grid-snake.svg" width="600"> 
+<img src="https://github.com/Prof-Josimar/crud_php_poo_2026_refatorado/blob/main/public/img/vortex_with_text.svg" width="600"> 
