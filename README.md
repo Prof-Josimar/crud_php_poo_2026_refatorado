@@ -1,9 +1,9 @@
-# Projeto Aulas PHP 2026 Refatorado - 23/09/2026 19:45:35,96 
+# Projeto Aulas PHP 2026 Refatorado - 23/09/2026 19:48:55,39 
  
  
  
 ## Informações do sistema 
-- Data e hora: 23/09/2026 19:45:35,96 
+- Data e hora: 23/09/2026 19:48:55,39 
 - Usuário: admin 
 - Computador: FE16 
 - Diretório atual: C:\dev\php\crud_php_poo_2026_refatorado 
@@ -12,7 +12,8 @@
 <img src="https://github.com/Prof-Josimar/crud_php_poo_2026/blob/main/public/imagens/logo.png" width="300"> 
  
  M README.md
- M up.cmd
+?? composer.lock
+?? rodar1.cmd
  
  
 ## Autor 
