@@ -1,0 +1,23 @@
+{
+    "name": "admin/aulapdo",
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "profjosimar",
+            "email": "josimar.ribeiro@prof.eteprc.faetec.rj.gov.br"
+        }
+    ],
+    "require-dev": {
+        "fakerphp/faker": "^1.24"
+    }
+}
